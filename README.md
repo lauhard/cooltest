@@ -1,2 +1,2 @@
 # cooltest
-test
+test2
